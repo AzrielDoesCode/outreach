@@ -1,0 +1,46 @@
+TO: info@ctexchange.co.za
+SUBJECT: Briefing: Voluntarily Automating Technology Risk Transparency (GICRTI 2026)
+
+Dear Cape Town Stock Exchange (CTSE) Team,
+
+We hope this email finds you well. We are writing on behalf of Xcigence to
+explore a strategic collaboration with Cape Town Stock Exchange (CTSE). As regulatory
+frameworks like POPIA (Protection of Personal Information Act), FSCA Cybersecurity Resilience Draft, and SARB Cyber & Info Security Directive
+continue to elevate cyber security to a top-tier board priority, the market
+still lacks a continuous, standardized baseline to benchmark ecosystem-wide
+resilience.
+
+Xcigence Corporation is introducing a collaborative framework outlined in the
+attached brieflink (https://brieflink.com/v/ssd2i): "Global Investor Cyber Risk Transparency Initiative".
+Our goal is to augment national digital resilience without expanding the
+mandatory regulatory burden on local entities.
+
+Utilizing our patented non-intrusive scanning and Risk Assessment methodology,
+the platform generates a continuous 300–850 Cyber Risk Assessment Credit Score
+(CRACS) that aligns directly with South Africa's core regulatory
+mandates:
+
+FSCA: ensuring market integrity and systemic cyber resilience
+
+Information Regulator (SA): enforcing strict data privacy and breach notification rules
+
+We are launching an 18-month structured pilot program involving 20–30
+voluntary companies across 5 key sectors, overseen by an independent advisory
+panel.
+
+We would highly value inviting Cape Town Stock Exchange (CTSE) to engage with this
+initiative as an official observer to evaluate the data's utility for
+evidence-based policy.
+
+May we schedule a brief, 15-minute introductory briefing to walk through the
+technical methodology?
+
+Best regards,
+
+Dhruv Suri
+Enterprise Cybersecurity Resource, Xcigence Corporation
+
+jsexecutive@xcigence.com
+Xcigence.com
+
+Patent US11418531B2

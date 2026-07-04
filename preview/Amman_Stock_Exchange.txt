@@ -1,0 +1,46 @@
+TO: info@ase.com.jo
+SUBJECT: Briefing: Voluntarily Automating Technology Risk Transparency (GICRTI 2026)
+
+Dear Amman Stock Exchange Team,
+
+We hope this email finds you well. We are writing on behalf of Xcigence to
+explore a strategic collaboration with Amman Stock Exchange. As regulatory
+frameworks like Personal Data Protection Law (2023), CBJ Cyber guidelines, and Securities Commission Cyber Framework
+continue to elevate cyber security to a top-tier board priority, the market
+still lacks a continuous, standardized baseline to benchmark ecosystem-wide
+resilience.
+
+Xcigence Corporation is introducing a collaborative framework outlined in the
+attached brieflink (https://brieflink.com/v/ssd2i): "Global Investor Cyber Risk Transparency Initiative".
+Our goal is to augment national digital resilience without expanding the
+mandatory regulatory burden on local entities.
+
+Utilizing our patented non-intrusive scanning and Risk Assessment methodology,
+the platform generates a continuous 300–850 Cyber Risk Assessment Credit Score
+(CRACS) that aligns directly with Jordan's core regulatory
+mandates:
+
+Primary Financial Regulator: ensuring market stability and systemic resilience
+
+Data Privacy Authority: protecting consumer and investor information
+
+We are launching an 18-month structured pilot program involving 20–30
+voluntary companies across 5 key sectors, overseen by an independent advisory
+panel.
+
+We would highly value inviting Amman Stock Exchange to engage with this
+initiative as an official observer to evaluate the data's utility for
+evidence-based policy.
+
+May we schedule a brief, 15-minute introductory briefing to walk through the
+technical methodology?
+
+Best regards,
+
+Dhruv Suri
+Enterprise Cybersecurity Resource, Xcigence Corporation
+
+jsexecutive@xcigence.com
+Xcigence.com
+
+Patent US11418531B2

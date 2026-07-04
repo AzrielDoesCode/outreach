@@ -1,0 +1,48 @@
+TO: consumer_services@creditbureau.com.sg
+SUBJECT: A Cyber Risk Score, Built the Way You Built Credit Risk: Xcigence CRACS
+
+Dear Credit Bureau Singapore (CBS) Team,
+
+Credit Bureau Singapore (CBS) has spent years building the infrastructure that lets
+Singapore's financial system trust a single number to represent
+creditworthiness. Xcigence has built the equivalent for cybersecurity.
+
+Just as a financial credit score condenses years of repayment behavior into a
+single, comparable figure, our patented Cyber Risk Assessment Credit Score
+(CRACS) — US Patent No. US11418531B2 — condenses an organization's entire
+technical risk posture into a 300–850 score, generated through continuous,
+non-intrusive scanning rather than static self-disclosure.
+
+We believe there is a natural adjacency between what Credit Bureau Singapore (CBS) already
+provides to lenders, insurers, and regulators, and what CRACS could add: a
+second, independently verifiable dimension of enterprise risk — digital
+resilience — sitting alongside financial creditworthiness.
+
+A few directions worth exploring together:
+
+Complementary Scoring: CRACS as an additional data layer within your existing
+credit reporting products, giving your clients cyber-risk visibility alongside
+financial risk.
+
+Shared Methodology Language: Aligning on a consistent, credit-score-style
+framework so that "risk" — financial or cyber — is communicated to the market
+in the same familiar terms.
+
+Joint Market Education: Singapore's lenders and insurers are only
+beginning to price cyber risk into their decisions. High-risk repository of sensitive consumer credit data necessitating stringent oversight
+
+We would welcome a brief, exploratory conversation — no more than 15 minutes —
+to walk through the CRACS methodology and hear how Credit Bureau Singapore (CBS) currently
+thinks about non-financial risk data.
+
+Would you be open to a short call in the coming weeks?
+
+Warm regards,
+
+Dhruv Suri
+Enterprise Cybersecurity Resource, Xcigence Corporation
+
+jsexecutive@xcigence.com
+Xcigence.com
+
+Patent US11418531B2
