@@ -98,7 +98,7 @@ Sincerely,
 {{SIGN_OFF_BLOCK}}
 """
 
-TEMPLATE_B_SUBJECT = "Voluntarily Automating Technology Risk Transparency )"
+TEMPLATE_B_SUBJECT = "Voluntarily Automating Technology Risk Transparency"
 TEMPLATE_B_BODY = """Dear {{Salutation}},
 
 {{Personal Line (optional)}}

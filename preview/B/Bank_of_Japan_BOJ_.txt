@@ -1,6 +1,6 @@
 TO: prd.mail@boj.or.jp
 CC: yomio@xcigence.com
-SUBJECT: Voluntarily Automating Technology Risk Transparency )
+SUBJECT: Voluntarily Automating Technology Risk Transparency
 
 Dear Bank of Japan (BOJ) Team,
 
