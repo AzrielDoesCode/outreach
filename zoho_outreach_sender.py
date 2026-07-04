@@ -103,7 +103,7 @@ TEMPLATE_B_BODY = """Dear {{Salutation}},
 
 {{Personal Line (optional)}}
 
-We hope this email finds you well. We are writing on behalf of Xcigence to
+We are writing on behalf of Xcigence to
 explore a strategic collaboration with {{Organization}}. As regulatory
 frameworks like {{Regulation 1}}, {{Regulation 2}}, and {{Regulation 3}}
 continue to elevate cyber security to a top-tier board priority, the market
@@ -329,6 +329,11 @@ def send_email(to_email, subject, body):
 def main():
     if not os.path.exists(PREVIEW_DIR):
         os.makedirs(PREVIEW_DIR)
+    
+    for category in ["A", "B", "C", "D"]:
+        cat_dir = os.path.join(PREVIEW_DIR, category)
+        if not os.path.exists(cat_dir):
+            os.makedirs(cat_dir)
 
     wb, ws, col_idx, rows = load_rows(XLSX_PATH)
 
@@ -344,9 +349,9 @@ def main():
         email_addr = row_data.get("Email")
         already_sent = row_data.get("Send Status") == "Sent"
 
-        if label not in TEMPLATES:
+        if label not in TEMPLATES and label != "D":
             skipped_template += 1
-            continue  # skips D and UNASSIGNED silently -- by design
+            continue  # skips UNASSIGNED silently -- by design
 
         if already_sent:
             skipped_already_sent += 1
@@ -359,22 +364,35 @@ def main():
         derived = derive_fields(row_data)
         merged = {**row_data, **derived}
 
-        try:
-            subject = render(TEMPLATES[label]["subject"], merged)
-            body = render(TEMPLATES[label]["body"], merged)
-        except ValueError as e:
-            errors.append((org, str(e)))
-            mark_sent(ws, col_idx, row_num, f"FAILED: {e}")
-            continue
+        if label in TEMPLATES:
+            try:
+                subject = render(TEMPLATES[label]["subject"], merged)
+                body = render(TEMPLATES[label]["body"], merged)
+            except ValueError as e:
+                errors.append((org, str(e)))
+                mark_sent(ws, col_idx, row_num, f"FAILED: {e}")
+                continue
+            preview_content = f"TO: {email_addr}\nCC: {CC_EMAIL}\nSUBJECT: {subject}\n\n{body}"
+        else:
+            # label is D
+            preview_content = f"TO: {email_addr}\nCC: {CC_EMAIL}\nCATEGORY D - No Template Assigned / Skipped"
 
         # Always write the preview file, dry run or not
         safe_name = re.sub(r"[^\w\-]+", "_", org)[:60]
-        preview_path = os.path.join(PREVIEW_DIR, f"{safe_name}.txt")
+        preview_path = os.path.join(PREVIEW_DIR, label, f"{safe_name}.txt")
         with open(preview_path, "w", encoding="utf-8") as f:
-            f.write(f"TO: {email_addr}\nCC: {CC_EMAIL}\nSUBJECT: {subject}\n\n{body}")
+            f.write(preview_content)
 
         if DRY_RUN:
-            print(f"[DRY RUN] Would send to {org} <{email_addr}> — preview saved to {preview_path}")
+            if label == "D":
+                print(f"[DRY RUN] Category D skipped for sending — preview saved to {preview_path}")
+                skipped_template += 1
+            else:
+                print(f"[DRY RUN] Would send to {org} <{email_addr}> — preview saved to {preview_path}")
+            continue
+            
+        if label == "D":
+            skipped_template += 1
             continue
 
         if sent_this_run >= BATCH_LIMIT:

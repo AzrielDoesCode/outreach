@@ -1,0 +1,47 @@
+TO: prd.mail@boj.or.jp
+CC: yomio@xcigence.com
+SUBJECT: Briefing: Voluntarily Automating Technology Risk Transparency (GICRTI 2026)
+
+Dear Bank of Japan (BOJ) Team,
+
+We are writing on behalf of Xcigence to
+explore a strategic collaboration with Bank of Japan (BOJ). As regulatory
+frameworks like APPI (Act on the Protection of Personal Information), FSA Comprehensive Guidelines, and NISC Cybersecurity Strategy
+continue to elevate cyber security to a top-tier board priority, the market
+still lacks a continuous, standardized baseline to benchmark ecosystem-wide
+resilience.
+
+Xcigence Corporation is introducing a collaborative framework outlined in the
+attached brieflink (https://brieflink.com/v/ssd2i): "Global Investor Cyber Risk Transparency Initiative".
+Our goal is to augment national digital resilience without expanding the
+mandatory regulatory burden on local entities.
+
+Utilizing our patented non-intrusive scanning and Risk Assessment methodology,
+the platform generates a continuous 300–850 Cyber Risk Assessment Credit Score
+(CRACS) that aligns directly with Japan's core regulatory
+mandates:
+
+FSA: ensuring stable and secure financial market operations
+
+PPC (Personal Information Protection Commission): protecting individual privacy rights
+
+We are launching an 18-month structured pilot program involving 20–30
+voluntary companies across 5 key sectors, overseen by an independent advisory
+panel.
+
+We would highly value inviting Bank of Japan (BOJ) to engage with this
+initiative as an official observer to evaluate the data's utility for
+evidence-based policy.
+
+May we schedule a brief, 15-minute introductory briefing to walk through the
+technical methodology?
+
+Best regards,
+
+Dhruv Suri
+Enterprise Cybersecurity Resource, Xcigence Corporation
+
+jsexecutive@xcigence.com
+Xcigence.com
+
+Patent US11418531B2

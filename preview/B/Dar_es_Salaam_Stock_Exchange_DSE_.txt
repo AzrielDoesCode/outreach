@@ -1,0 +1,47 @@
+TO: info@dse.co.tz
+CC: yomio@xcigence.com
+SUBJECT: Briefing: Voluntarily Automating Technology Risk Transparency (GICRTI 2026)
+
+Dear Dar es Salaam Stock Exchange (DSE) Team,
+
+We are writing on behalf of Xcigence to
+explore a strategic collaboration with Dar es Salaam Stock Exchange (DSE). As regulatory
+frameworks like Personal Data Protection Act 2022, BOT ICT Risk Guidelines, and Securities Commission Cyber Framework
+continue to elevate cyber security to a top-tier board priority, the market
+still lacks a continuous, standardized baseline to benchmark ecosystem-wide
+resilience.
+
+Xcigence Corporation is introducing a collaborative framework outlined in the
+attached brieflink (https://brieflink.com/v/ssd2i): "Global Investor Cyber Risk Transparency Initiative".
+Our goal is to augment national digital resilience without expanding the
+mandatory regulatory burden on local entities.
+
+Utilizing our patented non-intrusive scanning and Risk Assessment methodology,
+the platform generates a continuous 300–850 Cyber Risk Assessment Credit Score
+(CRACS) that aligns directly with Tanzania's core regulatory
+mandates:
+
+Primary Financial Regulator: ensuring market stability and systemic resilience
+
+Data Privacy Authority: protecting consumer and investor information
+
+We are launching an 18-month structured pilot program involving 20–30
+voluntary companies across 5 key sectors, overseen by an independent advisory
+panel.
+
+We would highly value inviting Dar es Salaam Stock Exchange (DSE) to engage with this
+initiative as an official observer to evaluate the data's utility for
+evidence-based policy.
+
+May we schedule a brief, 15-minute introductory briefing to walk through the
+technical methodology?
+
+Best regards,
+
+Dhruv Suri
+Enterprise Cybersecurity Resource, Xcigence Corporation
+
+jsexecutive@xcigence.com
+Xcigence.com
+
+Patent US11418531B2
